@@ -1,0 +1,33 @@
+React Js Needs to install major of the external dependencies. But in nextJS you don't need to install any external
+dependencies. They are already included in the nextJs. Like Routing ,Middleware, Static files, etc.
+NextJS internally reactJS hii use kr rhaa hai
+
+Setting Up
+TypeScript No
+ESLINT yes-> for showing some errors
+App router -> y
+import alias -> y
+import alias -> '@/'
+
+
+
+export default ko import krtai huai bracket nhi chaiye
+Name of component Should be camel case
+difference between javascript and typescript
+typescript is converted to javascript which is understanded by browser
+
+
+SSR-> data server sai uth akar hota hai tbhi render hota hai
+CSR-> code execute hota hai browser kai andar isliye event use krnai kai liye 'use client' boo bhi top pai bilkul
+
+state data can be used inside a component only-> if state is changed then the component is re-rendered -> if a variable
+is changed then it is not re-rendered
+
+
+
+Type of components in nextJS :
+1. Server components -> By default all components are server components.
+
+
+
+File system routing is used in next js
