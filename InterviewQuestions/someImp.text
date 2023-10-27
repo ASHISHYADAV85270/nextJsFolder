@@ -32,3 +32,8 @@ Type of components in nextJS :
 
 File system routing is used in next js
 layout.js is used for common layout
+
+
+import { usePathname } from "next/navigation";
+pathname=usePathname();
+clg(pathname);  // give params of the url
